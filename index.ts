@@ -44,11 +44,11 @@ const upadateReadme = async (data: any) => {
 
 ![NASA APOD](${data.url})
 
- ##${data.title}
+## ${data.title}
 
 ${formattedDate}
 
- ##Explanation:
+## Explanation:
 
 ${
     data && data.explanation
