@@ -1,0 +1,25 @@
+name: Daily Readme Update
+
+on:
+  schedule:
+    - cron: 30 2 * * *
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: setup bun & run
+        uses: oven-sh/bun@v4
+        with: 
+          bun-version: latest
+
+      - name: update readme
+        run: |
+          bun run dev
+          git config --global user.email "saurabhshukla6392@gmail.com"
+          git config --global user.name "saurabh-shukla1"
+          git add README.md
+          git commit -m "update on $(date +'%Y-%m-%d')" || echo "No changes to commit"
+          git push origin main
