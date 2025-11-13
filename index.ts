@@ -42,19 +42,19 @@ const upadateReadme = async (data: any) => {
 
     Discover the wonders of the universe with NASA's Astronomy Picture of the Day (APOD). Each day, a new image or photograph of our fascinating cosmos is featured, accompanied by a brief explanation written by a professional astronomer.
 
-    ![APOD Image]${data.url}
+![APOD Image]${data.url}
 
-    ## ${data.title}
+##${data.title}
 
-    ## Explanation:
+##Explanation:
 
-    ${
-        data && data.explanation
-        ? data.explanation.split('NASA Coverage').join('NASA Coverage')
-        : "No explanation available."
-    }
+${
+    data && data.explanation
+    ? data.explanation.split('NASA Coverage').join('NASA Coverage')
+    : "No explanation available."
+}
 
-    >_ Updated on: ${timeStamp} (in GMT)_
+>_Updated on: ${timeStamp} (in GMT)_
 
     `
     writeFileSync("README.md", content.trim())
