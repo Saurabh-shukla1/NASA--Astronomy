@@ -40,9 +40,9 @@ const upadateReadme = async (data: any) => {
     const content = `
     # Astronomy Picture of the Day - ${formattedDate}
 
-    Discover the wonders of the universe with NASA's Astronomy Picture of the Day (APOD). Each day, a new image or photograph of our fascinating cosmos is featured, accompanied by a brief explanation written by a professional astronomer.
+Discover the wonders of the universe with NASA's Astronomy Picture of the Day (APOD). Each day, a new image or photograph of our fascinating cosmos is featured, accompanied by a brief explanation written by a professional astronomer.
 
-![APOD Image]${data.url}
+![NASA APOD]${data.url}
 
 ##${data.title}
 

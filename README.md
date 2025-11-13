@@ -1,8 +1,8 @@
 # Astronomy Picture of the Day - 13th
 
-    Discover the wonders of the universe with NASA's Astronomy Picture of the Day (APOD). Each day, a new image or photograph of our fascinating cosmos is featured, accompanied by a brief explanation written by a professional astronomer.
+Discover the wonders of the universe with NASA's Astronomy Picture of the Day (APOD). Each day, a new image or photograph of our fascinating cosmos is featured, accompanied by a brief explanation written by a professional astronomer.
 
-![APOD Image]https://apod.nasa.gov/apod/image/2510/WitchBroom_Meyers_1080.jpg
+![NASA APOD]https://apod.nasa.gov/apod/image/2510/WitchBroom_Meyers_1080.jpg
 
 ##Astronomy Picture of the Day
 
