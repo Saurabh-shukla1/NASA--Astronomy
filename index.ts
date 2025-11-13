@@ -38,23 +38,25 @@ const upadateReadme = async (data: any) => {
     const timeStamp = new Date().toLocaleDateString();
 
     const content = `
-    # Astronomy Picture of the Day - ${formattedDate}
+        # Astronomy Picture of the Day - ${formattedDate}
 
-Discover the wonders of the universe with NASA's Astronomy Picture of the Day (APOD). Each day, a new image or photograph of our fascinating cosmos is featured, accompanied by a brief explanation written by a professional astronomer.
+    Discover the wonders of the universe with NASA's Astronomy Picture of the Day (APOD). Each day, a new image or photograph of our fascinating cosmos is featured, accompanied by a brief explanation written by a professional astronomer.
 
-![NASA APOD]${data.url}
+    ![NASA APOD](${data.url})
 
-##${data.title}
+    ##${data.title}
 
-##Explanation:
+    ${formattedDate}
 
-${
-    data && data.explanation
-    ? data.explanation.split('NASA Coverage').join('NASA Coverage')
-    : "No explanation available."
-}
+    ##Explanation:
 
->_Updated on: ${timeStamp} (in GMT)_
+    ${
+        data && data.explanation
+        ? data.explanation.split('NASA Coverage').join('NASA Coverage')
+        : "No explanation available."
+    }
+
+    >_Updated on: ${timeStamp} (in GMT)_
 
     `
     writeFileSync("README.md", content.trim())
