@@ -1,15 +1,15 @@
-# Astronomy Picture of the Day - 13th
+# Astronomy Picture of the Day - 14th
 
  Discover the wonders of the universe with NASA's Astronomy Picture of the Day (APOD). Each day, a new image or photograph of our fascinating cosmos is featured, accompanied by a brief explanation written by a professional astronomer.
 
-![NASA APOD](https://apod.nasa.gov/apod/image/2511/lrg_gabany_M42_2025_1024.jpg)
+![NASA APOD](https://apod.nasa.gov/apod/image/2511/DSC07080-Edit1024.jpeg)
 
-## Orion and the Running Man
+## Florida Northern Lights
 
-13th
+14th
 
 ## Explanation:
 
-Few cosmic vistas can excite the imagination like The Great Nebula in Orion. Visible as a faint, bland celestial smudge to the naked-eye, the nearest large star-forming region sprawls across this sharp colorful telescopic image. Designated M42 in the Messier Catalog, the Orion Nebula's glowing gas and dust surrounds hot, young stars. About 40 light-years across, M42 is at the edge of an immense interstellar molecular cloud only 1,500 light-years away that lies within the same spiral arm of our Milky Way galaxy as the Sun. Including dusty bluish reflection nebula NGC 1977, also known as the Running Man nebula at left in the frame, the natal nebulae represent only a small fraction of our galactic neighborhood's wealth of star-forming material. Within the well-studied stellar nursery, astronomers have also identified what appear to be numerous infant solar systems.
+Northern lights have come to Florida skies. In fact, the brilliant streak of a Northern Taurid meteor flashes through the starry night sky above the beach in this sea and skyscape, captured from Shired Island, Florida on November 11. Meteors from the annual Northern Taurid meteor shower are expected this time of year. But the digital camera exposure also records the shimmering glow of aurora, a phenomenon more often seen from our fair planet's higher geographical latitudes. Also known as aurora borealis, these northern lights are part of recent, wide spread auroral activity caused by strong geomagnetic storms. In the last few days, stormy spaceweather has been triggered by multiple Earth impacting coronal mass ejections and intense solar activity.
 
->_Updated on: 11/13/2025 (in GMT)_
+>_Updated on: 11/14/2025 (in GMT)_
