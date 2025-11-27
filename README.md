@@ -1,4 +1,4 @@
-# Astronomy Picture of the Day - 26th
+# Astronomy Picture of the Day - 27th
 
  Discover the wonders of the universe with NASA's Astronomy Picture of the Day (APOD). Each day, a new image or photograph of our fascinating cosmos is featured, accompanied by a brief explanation written by a professional astronomer.
 
@@ -6,10 +6,10 @@
 
 ## Globular Cluster M15 Deep Field
 
-26th
+27th
 
 ## Explanation:
 
 Stars, like bees, swarm around the center of bright globular cluster M15.  The central ball of over 100,000 stars is a relic from the early years of our Galaxy, and continues to orbit the Milky Way's center.  M15, one of about 150 globular clusters remaining, is noted for being easily visible with only binoculars, having at its center one of the densest concentrations of stars known, and containing a high abundance of variable stars and pulsars.  The featured image of M15 was taken by combining very long exposures -- 122 hours in all -- and so brings up faint wisps of gas and dust in front of the giant ball of stars. M15 lies about 35,000 light years away toward the constellation of the Winged Horse (Pegasus).    Almost Hyperspace: Random APOD Generator
 
->_Updated on: 11/26/2025 (in GMT)_
+>_Updated on: 11/27/2025 (in GMT)_
