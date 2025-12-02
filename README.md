@@ -1,4 +1,4 @@
-# Astronomy Picture of the Day - 1st
+# Astronomy Picture of the Day - 2nd
 
  Discover the wonders of the universe with NASA's Astronomy Picture of the Day (APOD). Each day, a new image or photograph of our fascinating cosmos is featured, accompanied by a brief explanation written by a professional astronomer.
 
@@ -6,10 +6,10 @@
 
 ## 3I ATLAS: Tails of an Interstellar Comet
 
-1st
+2nd
 
 ## Explanation:
 
 How typical is our Solar System?  Studying 3I/ATLAS, a comet just passing through, is providing clues.  Confirmed previous interstellar visitors include an asteroid, a comet, a meteor, and a gas wind dominated by hydrogen and helium. Comet 3I/ATLAS appears relatively normal when compared to Solar System comets, therefore providing more evidence that our Solar System is a somewhat typical star system.  For example, Comet 3I/ATLAS has a broadly similar chemical composition and ejected dust. The featured image was captured last week from Texas and shows a green coma, a wandering blue-tinted ion tail likely deflected by our Sun's wind, and a slight anti-tail, all typical cometary attributes.  The comet, visible with a telescope, passed its closest to the Sun in late October and will pass its closest to the Earth in mid-December, after which it will return to interstellar space and never return.    Explore the Universe: Random APOD Generator
 
->_Updated on: 12/1/2025 (in GMT)_
+>_Updated on: 12/2/2025 (in GMT)_
