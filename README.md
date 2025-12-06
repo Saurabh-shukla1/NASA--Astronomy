@@ -1,4 +1,4 @@
-# Astronomy Picture of the Day - 5th
+# Astronomy Picture of the Day - 6th
 
  Discover the wonders of the universe with NASA's Astronomy Picture of the Day (APOD). Each day, a new image or photograph of our fascinating cosmos is featured, accompanied by a brief explanation written by a professional astronomer.
 
@@ -6,10 +6,10 @@
 
 ## The Bipolar Jets of KX Andromedae
 
-5th
+6th
 
 ## Explanation:
 
 Blasting outward from variable star KX Andromedae, these stunning bipolar jets are 19 light-years long. Recently discovered, they are revealed in unprecedented detail in this deep telescopic image centered on KX And and composed from over 692 hours of combined image data. In fact, KX And is spectroscopically found to be an interacting binary star system consisting of a bright, hot B-type star with a swollen cool giant star as its co-orbiting, close companion. The stellar material from the cool giant star is likely being transferred to the hot B-type star through an accretion disk, with spectacular symmetric jets driven outward perpendicular to the disk itself. The known distance to KX And of 2,500 light-years, angular size of the jets, and estimated inclination of the accretion disk lead to the size estimate for each jet of an astonishing 19 light-years.   Free APOD Lecture in Phoenix: Wednesday, December 10 at 7 pm
 
->_Updated on: 12/5/2025 (in GMT)_
+>_Updated on: 12/6/2025 (in GMT)_
