@@ -1,4 +1,4 @@
-# Astronomy Picture of the Day - 15th
+# Astronomy Picture of the Day - 16th
 
  Discover the wonders of the universe with NASA's Astronomy Picture of the Day (APOD). Each day, a new image or photograph of our fascinating cosmos is featured, accompanied by a brief explanation written by a professional astronomer.
 
@@ -6,10 +6,10 @@
 
 ## Gemini Meteors over Snow Capped Mountains
 
-15th
+16th
 
 ## Explanation:
 
 Where are all of these meteors coming from?  In terms of direction on the sky, the pointed answer is the constellation of Gemini.  That is why the major meteor shower in December is known as the Geminids -- because shower meteors all appear to come from a radiant toward Gemini. Three dimensionally, however, sand-sized debris expelled from the unusual asteroid 3200 Phaethon follows a well-defined orbit about our Sun, and the part of the orbit that approaches Earth is superposed in front of the constellation of Gemini. Therefore, when Earth crosses this orbit, the radiant point of falling debris appears in Gemini. Featured here is a composite of many images taken over the past few days through dark skies from Slovakia and capturing the snow-covered peaks of the Belianske Tatra mountains Numerous  bright meteor streaks from the Geminids meteor shower are visible.  Orion is visible above the horizon, while the bright star nearest the radiant is Castor.    APOD Review: RJN's Night Sky Network Lecture
 
->_Updated on: 12/15/2025 (in GMT)_
+>_Updated on: 12/16/2025 (in GMT)_
