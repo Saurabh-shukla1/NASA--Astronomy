@@ -1,4 +1,4 @@
-# Astronomy Picture of the Day - 17th
+# Astronomy Picture of the Day - 18th
 
  Discover the wonders of the universe with NASA's Astronomy Picture of the Day (APOD). Each day, a new image or photograph of our fascinating cosmos is featured, accompanied by a brief explanation written by a professional astronomer.
 
@@ -6,10 +6,10 @@
 
 ## W5: The Soul Nebula
 
-17th
+18th
 
 ## Explanation:
 
 Stars are forming in the Soul of the Queen of Aethopia. More specifically, a large star forming region called the Soul Nebula can be found in the direction of the constellation Cassiopeia, whom Greek mythology credits as the vain wife of a King who long ago ruled lands surrounding the upper Nile river. Also known as Westerhout 5 (W5), the Soul Nebula houses several open clusters of stars, ridges and pillars darkened by cosmic dust, and huge evacuated bubbles formed by the winds of young massive stars. Located about 6,500 light years away, the Soul Nebula spans about 100 light years and is usually imaged next to its celestial neighbor the Heart Nebula (IC 1805). The featured image, taken from near Nashville, Tennessee, USA, is a composite of 234 hours of exposures made in different colors: red as emitted by hydrogen gas, yellow as emitted by sulfur, and blue as emitted by oxygen.   Explore the Universe: Random APOD Generator
 
->_Updated on: 12/17/2025 (in GMT)_
+>_Updated on: 12/18/2025 (in GMT)_
