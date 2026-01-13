@@ -1,15 +1,15 @@
-# Astronomy Picture of the Day - 3rd
+# Astronomy Picture of the Day - 13th
 
  Discover the wonders of the universe with NASA's Astronomy Picture of the Day (APOD). Each day, a new image or photograph of our fascinating cosmos is featured, accompanied by a brief explanation written by a professional astronomer.
 
-![NASA APOD](https://apod.nasa.gov/apod/image/2601/moonwalk1c1024.jpg)
+![NASA APOD](https://apod.nasa.gov/apod/image/2601/MeteorDust_XuChen_960.jpg)
 
-## Full Moonlight
+## Meteor Dust
 
-3rd
+13th
 
 ## Explanation:
 
-The Full Moon is the brightest lunar phase, and tonight you can stand in the light of the first Full Moon of 2026. In fact, the Moon's full phase occurs on January 3 at 10:03 UTC, while only about 7 hours later planet Earth reaches its 2026 perihelion, the closest point in its elliptical orbit around the Sun, at 17:16 UTC. January's Full Moon was also not far from its own perigee, or closest approach to planet Earth. For this lunation the Moon's perigee was on January 1 at 21:44 UTC. You can also spot planet Jupiter, near its brightest for 2026 and close on the sky to the Full Moon tonight. But while you're out skygazing don't forget to look for rare, bright fireballs from the Quadrantid meteor shower.
+What's happening to this meteor? It is shedding its outer layers as it passes through the Earth's atmosphere and heats up. The sudden high temperatures not only cause the bright glow along the dramatic streak but also melt and vaporize the meteor's component rock and ice, creating dust. Wind in the atmosphere typically blows this dust away  over the next few seconds, leaving no visible trace after only a few minutes.  Much of this dust will eventually settle down to the Earth. The featured image was captured in mid-December, coincident with the Geminids meteor shower. On the upper left is Sirius, the brightest star in the night sky, while in the foreground is fog-engulfed Huangshan, the Yellow Mountains of eastern China.
 
->_Updated on: 1/3/2026 (in GMT)_
+>_Updated on: 1/13/2026 (in GMT)_
