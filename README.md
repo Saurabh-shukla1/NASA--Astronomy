@@ -2,14 +2,14 @@
 
  Discover the wonders of the universe with NASA's Astronomy Picture of the Day (APOD). Each day, a new image or photograph of our fascinating cosmos is featured, accompanied by a brief explanation written by a professional astronomer.
 
-![NASA APOD](undefined)
+![NASA APOD](https://apod.nasa.gov/apod/image/2601/M51_Sleeman_960.jpg)
 
-## A Solar Eruption from SDO
+## M51: The Whirlpool Galaxy
 
 14th
 
 ## Explanation:
 
-What just leapt from the Sun?  A towering structure of solar plasma suddenly rose from the Sun's surface and unfurled into space -- a structure so large that many Earths would easily fit within it-- marking the onset of a dramatic Coronal Mass Ejection (CME).  The event was captured in striking detail in late 2024 by NASA's Solar Dynamics Observatory (SDO), whose continuous monitoring improves space weather forecasts and helps humanity better understand how solar activity affects satellites, GPS, radio communications, and power grids on Earth.  The featured video blends three extreme-ultraviolet views from SDO’s Atmospheric Imaging Assembly (AIA), revealing how plasma at different temperatures surged upward as the eruption unfolded.  Here, red highlights cooler, denser material lifted from the Sun’s lower atmosphere, while yellow traces hotter, million-degree coronal loops stretching outward as magnetic fields open.  After the main outburst, the Sun’s magnetic fields quickly reorganize.
+The Whirlpool Galaxy is a classic spiral galaxy. At only 30 million light years distant and fully 60 thousand light years across, M51, also known as NGC 5194, is one of the brightest and most picturesque galaxies on the sky.  The featured deep image is a digital combination of images taken in different colors over 58 hours with a telescope from Lijiang, China. Anyone with a good pair of binoculars, however, can see this Whirlpool toward the constellation of the Hunting Dogs (Canes Venatici). M51 is a spiral galaxy of type Sc and is the dominant member of a whole group of galaxies.  Astronomers speculate that M51's spiral structure is primarily due to its gravitational interaction with the smaller galaxy just above it.
 
 >_Updated on: 1/14/2026 (in GMT)_
