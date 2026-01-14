@@ -1,4 +1,4 @@
-# Astronomy Picture of the Day - 13th
+# Astronomy Picture of the Day - 14th
 
  Discover the wonders of the universe with NASA's Astronomy Picture of the Day (APOD). Each day, a new image or photograph of our fascinating cosmos is featured, accompanied by a brief explanation written by a professional astronomer.
 
@@ -6,10 +6,10 @@
 
 ## A Solar Eruption from SDO
 
-13th
+14th
 
 ## Explanation:
 
 What just leapt from the Sun?  A towering structure of solar plasma suddenly rose from the Sun's surface and unfurled into space -- a structure so large that many Earths would easily fit within it-- marking the onset of a dramatic Coronal Mass Ejection (CME).  The event was captured in striking detail in late 2024 by NASA's Solar Dynamics Observatory (SDO), whose continuous monitoring improves space weather forecasts and helps humanity better understand how solar activity affects satellites, GPS, radio communications, and power grids on Earth.  The featured video blends three extreme-ultraviolet views from SDO’s Atmospheric Imaging Assembly (AIA), revealing how plasma at different temperatures surged upward as the eruption unfolded.  Here, red highlights cooler, denser material lifted from the Sun’s lower atmosphere, while yellow traces hotter, million-degree coronal loops stretching outward as magnetic fields open.  After the main outburst, the Sun’s magnetic fields quickly reorganize.
 
->_Updated on: 1/13/2026 (in GMT)_
+>_Updated on: 1/14/2026 (in GMT)_
