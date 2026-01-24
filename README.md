@@ -1,4 +1,4 @@
-# Astronomy Picture of the Day - 23rd
+# Astronomy Picture of the Day - 24th
 
  Discover the wonders of the universe with NASA's Astronomy Picture of the Day (APOD). Each day, a new image or photograph of our fascinating cosmos is featured, accompanied by a brief explanation written by a professional astronomer.
 
@@ -6,10 +6,10 @@
 
 ## Planetary Nebula Abell 7
 
-23rd
+24th
 
 ## Explanation:
 
 Very faint planetary nebula Abell 7 is about 1,800 light-years distant. It lies just south of Orion in planet Earth's skies toward the constellation Lepus, The Hare. Posing with scattered Milky Way stars, its generally simple spherical shape about 8 light-years in diameter is revealed in this deep telescopic image. The beautiful and complex shapes seen within the cosmic cloud are visually enhanced by the use of long exposures and narrowband filters that capture emission from hydrogen and oxygen atoms. Otherwise Abell 7 would be much too faint to be appreciated by eye. A planetary nebula represents a very brief final phase in stellar evolution that our own Sun will experience 5 billion years hence, as the nebula's central, once sun-like star shrugs off its outer layers. Abell 7 itself is estimated to be 20,000 years old. But its central star, seen here as a fading white dwarf, is some 10 billion years old.
 
->_Updated on: 1/23/2026 (in GMT)_
+>_Updated on: 1/24/2026 (in GMT)_
