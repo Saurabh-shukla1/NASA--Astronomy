@@ -1,4 +1,4 @@
-# Astronomy Picture of the Day - 25th
+# Astronomy Picture of the Day - 26th
 
  Discover the wonders of the universe with NASA's Astronomy Picture of the Day (APOD). Each day, a new image or photograph of our fascinating cosmos is featured, accompanied by a brief explanation written by a professional astronomer.
 
@@ -6,10 +6,10 @@
 
 ## Phobos: Doomed Moon of Mars
 
-25th
+26th
 
 ## Explanation:
 
 This moon is doomed. Mars, the red planet named for the Roman god of war, has two tiny moons, Phobos and Deimos, whose names are derived from the Greek for Fear and Panic. These Martian moons may well be captured asteroids originating in the main asteroid belt between Mars and Jupiter or perhaps from even more distant reaches of our Solar System. The larger moon, Phobos, is indeed seen to be a cratered, asteroid-like object in this stunning color image from the robotic Mars Reconnaissance Orbiter, which can image objects as small as 10 meters. But Phobos orbits so close to Mars - about 5,800 kilometers above the surface compared to 400,000 kilometers for our Moon - that gravitational tidal forces are dragging it down. In perhaps 50 million years, Phobos is expected to disintegrate into a ring of debris.
 
->_Updated on: 1/25/2026 (in GMT)_
+>_Updated on: 1/26/2026 (in GMT)_
