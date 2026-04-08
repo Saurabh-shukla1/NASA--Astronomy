@@ -1,15 +1,15 @@
-# Astronomy Picture of the Day - 7th
+# Astronomy Picture of the Day - 8th
 
  Discover the wonders of the universe with NASA's Astronomy Picture of the Day (APOD). Each day, a new image or photograph of our fascinating cosmos is featured, accompanied by a brief explanation written by a professional astronomer.
 
-![NASA APOD](https://apod.nasa.gov/apod/image/2604/BlueHorse_Alkuwari_960.jpg)
+![NASA APOD](undefined)
 
-## IC 4592: The Blue Horsehead Reflection Nebula
+## undefined
 
-7th
+8th
 
 ## Explanation:
 
-Do you see the horse's head?   What you are seeing is not the famous Horsehead nebula toward Orion, but rather a fainter nebula that only takes on a familiar form with deeper imaging.  The main part of the here-imaged molecular cloud complex is  reflection nebula IC 4592.  Reflection nebulas are made up of very fine dust that normally appears dark but can look quite blue when reflecting the visible light of energetic nearby stars.  In this case, the source of much of the reflected light is a star at the eye of the horse.  That star is part of Nu Scorpii, one of the brighter star systems toward the constellation of the Scorpion (Scorpius).   A second reflection nebula dubbed IC 4601 is visible surrounding two stars just below the image center.  The featured picture was taken from  Sawda Natheel in  Qatar.   Jigsaw Nebula: Astronomy Puzzle of the Day
+No explanation available.
 
->_Updated on: 4/7/2026 (in GMT)_
+>_Updated on: 4/8/2026 (in GMT)_
