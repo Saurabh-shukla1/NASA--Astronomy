@@ -1,15 +1,15 @@
-# Astronomy Picture of the Day - 15th
+# Astronomy Picture of the Day - 17th
 
  Discover the wonders of the universe with NASA's Astronomy Picture of the Day (APOD). Each day, a new image or photograph of our fascinating cosmos is featured, accompanied by a brief explanation written by a professional astronomer.
 
-![NASA APOD](https://apod.nasa.gov/apod/image/2604/iss_moon_transit_zoom.jpeg)
+![NASA APOD](https://apod.nasa.gov/apod/image/2604/M82_V3_1024.jpg)
 
-## The ISS Transits the Moon
+## M82: Starburst Galaxy with a Superwind
 
-15th
+17th
 
 ## Explanation:
 
-Nope, that is not an alien spaceship landing on the Moon! This is an image of the International Space Station (ISS) as it begins to transit in front of the Moon. The ISS is in low-Earth orbit (LEO) where it wizzes around the Earth every 90 minutes. Orbiting the Earth 16 times per day	 for 25 years, the ISS has photobombed many familiar celestial objects including Venus, Mars, Saturn, and the Sun. Thousands of experiments led by researchers from over one hundred countries have been conducted on the ISS. Growing protein crystals in low-gravity was one of the first experiments onboard the ISS and continues to contribute to new medical treatments. ISS astronauts study plant growth, water recycling, human health, and more to support the Artemis missions which will take humans farther than they’ve ever gone before. Next time you are out and about at night, try to  spot the ISS zooming across the sky!
+Messier 82 is a starburst galaxy with a superwind. In fact, through supernova explosions and powerful winds from massive stars, the burst of star formation in M82 is driving a prodigious outflow. Evidence for the superwind from the galaxy's central regions is clear in the sharp telescopic portrait. The composite image includes 33 hours of narrowband data, highlighting emission from long outflow filaments of atomic hydrogen gas in reddish hues. Some of the gas in the superwind, enriched in heavy elements forged in the massive stars, will eventually escape into intergalactic space. Triggered by a close encounter with nearby large galaxy M81, the furious burst of star formation in M82 should last about 100 million years or so. Also known as the Cigar Galaxy for its elongated visual appearance, M82 is about 30,000 light-years across. It lies 12 million light-years away near the northern boundary of Ursa Major.
 
->_Updated on: 4/15/2026 (in GMT)_
+>_Updated on: 4/17/2026 (in GMT)_
