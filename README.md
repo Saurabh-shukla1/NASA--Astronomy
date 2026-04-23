@@ -1,15 +1,15 @@
-# Astronomy Picture of the Day - 22nd
+# Astronomy Picture of the Day - 23rd
 
  Discover the wonders of the universe with NASA's Astronomy Picture of the Day (APOD). Each day, a new image or photograph of our fascinating cosmos is featured, accompanied by a brief explanation written by a professional astronomer.
 
-![NASA APOD](https://youtube.com/embed/MT8tg5b3b8E?si=46r2TF9THNvtq1ep)
+![NASA APOD](https://apod.nasa.gov/apod/image/2604/noirlab2610c_1024.jpg)
 
-## Earthset with an iPhone
+## Large Scale Structure of the Universe
 
-22nd
+23rd
 
 ## Explanation:
 
-What does it mean for the Earth to set? Artemis II Commander Reid Wiseman gave us another spectacular view of Earth from their historic flyby of the Moon. Commander Wiseman's video, taken with an iPhone at 8x zoom, shows our entire planet gradually blocked from view by the Moon. On the Earth, the 24-hour planetary rotation causes the Sun to set below your horizon every night. However, on Artemis II the Earthset was caused not by the Moon’s rotation but by the spacecraft moving behind the Moon (at about 55 seconds in this video). Once rare, views of Earth are now taken many times a day from many spacecraft, including NASA’s SWOT (Surface Water and Ocean Topography) satellite tracking freshwater resources and USGS Landsat 8 and 9 satellites supporting water management for farmers, for example. Space agencies around our home planet now work together to provide unique and ever-improving views of our Earth.   Celebrate: Earth Day
+This is a map of the universe. The Dark Energy Spectroscopic Instrument (DESI) at Kitt Peak National Observatory, Arizona, has finished its five-year survey. It observed more than 47 million galaxies and quasars and created a 3D map centered on the Earth. Today's featured image shows a thin slice of these data: the black gaps indicate where our Galaxy obscures distant objects. The feathery web in the inset shows the large scale structure of the universe. Light of the most distant galaxies shown here travelled for 11 billion years to reach the Earth. Galaxies cluster throughout cosmic history under the competing influences of gravity and dark energy, responsible for the accelerated expansion of the universe. Analysis of early DESI results hinted at the possibility that dark energy, described as a cosmological constant by Albert Einstein, may not be constant after all. But we still have to wait for the analysis of the now complete dataset. The nature of dark energy is the biggest mystery of cosmology.
 
->_Updated on: 4/22/2026 (in GMT)_
+>_Updated on: 4/23/2026 (in GMT)_
