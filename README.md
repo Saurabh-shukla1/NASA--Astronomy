@@ -1,15 +1,15 @@
-# Astronomy Picture of the Day - 25th
+# Astronomy Picture of the Day - 26th
 
  Discover the wonders of the universe with NASA's Astronomy Picture of the Day (APOD). Each day, a new image or photograph of our fascinating cosmos is featured, accompanied by a brief explanation written by a professional astronomer.
 
-![NASA APOD](https://apod.nasa.gov/apod/image/2605/ThackerayGlobs_Hayes_960.jpg)
+![NASA APOD](https://apod.nasa.gov/apod/image/2605/Ngc3660Burcin_Block_960.jpg)
 
-## Thackeray's Globules
+## NGC 3660 and Burçin's Galaxy
 
-25th
+26th
 
 ## Explanation:
 
-What are these strange space globs?  Situated in rich star fields and glowing hydrogen gas, these opaque clouds of interstellar dust and gas are so large they might be able to form stars. Their home is known as IC 2944, a bright stellar nursery located about 7,600 light years away toward the constellation of the Centaur (Centaurus). The largest of these  dark globules, first spotted by A. D. Thackeray in 1950 using a telescope in South Africa, is likely two separate but overlapping clouds, each more than one light-year wide. Along with other data, the featured Hubble palette image from the El Sauce Observatory in Chile, indicates that Thackeray's globules are fractured and churning as a result of intense ultraviolet radiation from young, hot stars already energizing and heating the bright emission nebula. These and similar dark globules known to be associated with other star forming regions may ultimately be dissipated by their hostile environment -- like cosmic lumps of butter in a hot frying pan.   Interstellar Jigsaw: Astronomy Puzzle of the Day
+The upper galaxy might be more photogenic, but the lower galaxy is more unusual.  The galaxy up top is NGC 3660, a spiral galaxy similar to our own Milky Way galaxy in that it has several bright blue spiral arms and a central bar of stars, dust, and gas. Captured by chance in the featured deep and colorful image, surprisingly, is SN 2026cff, a supernova found just to the right of the central bar.  Farther in the distance is the bottom galaxy, known informally as Burçin’s galaxy, but formally cataloged as LEDA 1000714. The center of this galaxy appears to be an old elliptical galaxy, but it is strangely surrounded by not one but two rings of stars.  What created Burçin's galaxy is a mystery and remains a continuing topic of research, but it likely involves the accretion of one or more smaller galaxies.
 
->_Updated on: 5/25/2026 (in GMT)_
+>_Updated on: 5/26/2026 (in GMT)_
